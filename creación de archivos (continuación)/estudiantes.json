@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Pedro",
+    "edad": 21,
+    "carrera": "ingenieria Civl"
+  },
+  {
+    "nombre": "Jose",
+    "edad": 23,
+    "carrera": "ingenieria En DS"
+  },
+  {
+    "nombre": "Carlos",
+    "edad": 18,
+    "carrera": "Ingeniera Industrial"
+  }
+]
